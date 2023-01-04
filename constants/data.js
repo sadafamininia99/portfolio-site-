@@ -8,7 +8,7 @@ const userData = {
   address: "Tehran, Iran.",
   projects: [
     {
-      title: "Tailwind Master Kit",
+      title: "",
       link: "https://tailwindmasterkit.com",
       imgUrl: "/tmk.jpg",
     },
@@ -68,32 +68,27 @@ const userData = {
       desc: "We take  pride in bringing advertisers and publishers together while providing not only the best offers on variety of tags and verticals and high-grade traffic to promote but also offerings of  high proficiency with well-designed creatives and the leading-edge monetization tools available on the market.",
     },
     {
-      title: "Founder and Developer",
-      company: "TailwindMasterKit",
+      title: "Frontend Developer",
+      company: "Menew",
       year: "2021",
       companyLink: "https://tailwindmasterkit.com",
-      desc: "Developed a marketplace for tailwind web components (React, HTML and Angular) and templates.",
+      desc: "We help Restaurants to improve their management and efficiency in that way We believe Digital Menu is one of the essentials when a restaurant launches five years from now"
+      
     },
     {
-      title: "Founder and Developer",
-      company: "Algochurn",
-      year: "2021",
+      title: "Frontend Developer(Vue.js)",
+      company: "DigikalaNext",
+      year: "2020",
       companyLink: "https://algochurn.com",
-      desc: "Your last moment revision friend right before a Tech coding interview. Practice problems and get hired at top Product based companies.",
+      desc: "Diginext is a movement to connect the country’s #1 eCommerce to the country’s #1 Startups. We believe that innovation is the key to solve tough challenges in society and to create our own future togeth",
     },
-    {
-      title: "Internship",
-      company: "Intel Corporation",
-      year: "2019",
-      companyLink: "https://intel.com",
-      desc: "Developed pothole detection system with OpenCV and computer vision, detects potholes on roads and informs the driver.",
-    },
+   
     {
       title: "Graduation",
-      company: "UPES, Dehradun.",
+      company: "Islamic Azad University Central Tehran Branch",
       year: "2019",
       companyLink: "https://upes.co.in",
-      desc: "Major in Computer Science and Engineering with a CGPA of 7.0. Nobody asks this but it's okay.",
+      desc: "he Islamic Azad University, Central Tehran Branch (IAUCTB) (Persian: دانشگاه آزاد اسلامی واحد تهران مرکزی) formerly known as Islamic Azad University of Tehran is a major private research university located in central Tehran, Iran. It is the campus of the Islamic Azad University system and head of Tehran Province Universities.",
     },
     {
       title: "High School",
