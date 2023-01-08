@@ -76,7 +76,7 @@ const userData = {
       
     },
     {
-      title: "Frontend Developer(Vueee.js)",
+      title: "Frontend Developer(Vue.js)",
       company: "DigikalaNext",
       year: "2020",
       companyLink: "https://algochurn.com",
