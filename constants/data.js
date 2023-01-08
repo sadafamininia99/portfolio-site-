@@ -84,13 +84,6 @@ const userData = {
     },
    
     {
-      title: "Graduation",
-      company: "Islamic Azad University Central Tehran Branch",
-      year: "2019",
-      companyLink: "https://upes.co.in",
-      desc: "he Islamic Azad University, Central Tehran Branch (IAUCTB) (Persian: دانشگاه آزاد اسلامی واحد تهران مرکزی) formerly known as Islamic Azad University of Tehran is a major private research university located in central Tehran, Iran. It is the campus of the Islamic Azad University system and head of Tehran Province Universities.",
-    },
-    {
       title: "High School",
       company: "Delhi Public School, Jaipur.",
       year: "2015",
