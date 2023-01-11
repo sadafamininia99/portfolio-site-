@@ -84,11 +84,11 @@ const userData = {
     },
    
     {
-      title: "High School",
-      company: "Delhi Public School, Jaipur.",
-      year: "2015",
-      companyLink: "https://upes.co.in",
-      desc: "Subjects being PCM - I barely survived with 93.6% marks aggregate. Flex fridays, fellas.",
+      title: "bechelor in Computer engineering",
+      company: "Iauctb Tehran Markaz",
+      year: "2017",
+      companyLink: "https://ctb.iau.ir/",
+      desc: "Islamic Azad University, Central Tehran Branch is a private research university located in Tehran, Iran. Founded in 1982, Central Tehran is the flagship institution of the universities affiliated with Islamic Azad University system.",
     },
   ],
   resumeUrl:
